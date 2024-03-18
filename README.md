@@ -360,19 +360,19 @@ https://www.jb51.net/softs/794768.html    某个软件下载页
 
 为保证白名单生效，先订阅 whitelist.txt
 
-<b>点击添加订阅</b>：<a href="https://iorate.github.io/ublacklist/subscribe?name=whitelist&url=https://raw.githubusercontent.com/bcaso/Computer-Science-Whitelist/main/whitelists/whitelist.txt">whitelist</a>
+<b>点击添加订阅</b>：<a href="https://iorate.github.io/ublacklist/subscribe?name=whitelist&url=https://raw.githubusercontent.com/Petraglia2/Computer-Science-Whitelist/main/whitelists/whitelist.txt">whitelist</a>
 
 再分类订阅:
 
-1. <a href="https://iorate.github.io/ublacklist/subscribe?name=wiki&url=https://raw.githubusercontent.com/bcaso/Computer-Science-Whitelist/main/whitelists/wiki.txt">wiki</a>
-2. <a href="https://iorate.github.io/ublacklist/subscribe?name=仓库&url=https://raw.githubusercontent.com/bcaso/Computer-Science-Whitelist/main/whitelists/repository.txt">仓库</a>
-3. <a href="https://iorate.github.io/ublacklist/subscribe?name=博客&url=https://raw.githubusercontent.com/bcaso/Computer-Science-Whitelist/main/whitelists/blogs.txt">博客</a>
-4. <a href="https://iorate.github.io/ublacklist/subscribe?name=论坛&url=https://raw.githubusercontent.com/bcaso/Computer-Science-Whitelist/main/whitelists/bbs.txt">论坛</a>
-5. <a href="https://iorate.github.io/ublacklist/subscribe?name=软件下载站&url=https://raw.githubusercontent.com/bcaso/Computer-Science-Whitelist/main/whitelists/software.txt">软件下载站</a>
-6. <a href="https://iorate.github.io/ublacklist/subscribe?name=文库&url=https://raw.githubusercontent.com/bcaso/Computer-Science-Whitelist/main/whitelists/library.txt">文库</a>
-7. <a href="https://iorate.github.io/ublacklist/subscribe?name=视频&url=https://raw.githubusercontent.com/bcaso/Computer-Science-Whitelist/main/whitelists/video.txt">视频</a>
+1. <a href="https://iorate.github.io/ublacklist/subscribe?name=wiki&url=https://raw.githubusercontent.com/Petraglia2/Computer-Science-Whitelist/main/whitelists/wiki.txt">wiki</a>
+2. <a href="https://iorate.github.io/ublacklist/subscribe?name=仓库&url=https://raw.githubusercontent.com/Petraglia2/Computer-Science-Whitelist/main/whitelists/repository.txt">仓库</a>
+3. <a href="https://iorate.github.io/ublacklist/subscribe?name=博客&url=https://raw.githubusercontent.com/Petraglia2/Computer-Science-Whitelist/main/whitelists/blogs.txt">博客</a>
+4. <a href="https://iorate.github.io/ublacklist/subscribe?name=论坛&url=https://raw.githubusercontent.com/Petraglia2/Computer-Science-Whitelist/main/whitelists/bbs.txt">论坛</a>
+5. <a href="https://iorate.github.io/ublacklist/subscribe?name=软件下载站&url=https://raw.githubusercontent.com/Petraglia2/Computer-Science-Whitelist/main/whitelists/software.txt">软件下载站</a>
+6. <a href="https://iorate.github.io/ublacklist/subscribe?name=文库&url=https://raw.githubusercontent.com/Petraglia2/Computer-Science-Whitelist/main/whitelists/library.txt">文库</a>
+7. <a href="https://iorate.github.io/ublacklist/subscribe?name=视频&url=https://raw.githubusercontent.com/Petraglia2/Computer-Science-Whitelist/main/whitelists/video.txt">视频</a>
 
-或者不分类，直接订阅总列表: <a href="https://iorate.github.io/ublacklist/subscribe?name=whitelists_combined&url=https://raw.githubusercontent.com/bcaso/Computer-Science-Whitelist/main/whitelists/whitelists_combined.txt">汇总列表</a>
+或者不分类，直接订阅总列表: <a href="https://iorate.github.io/ublacklist/subscribe?name=whitelists_combined&url=https://raw.githubusercontent.com/Petraglia2/Computer-Science-Whitelist/main/whitelists/whitelists_combined.txt">汇总列表</a>
 
 以上链接会自动打开 chrome 上的 uBlacklist 插件，同时添加订阅。
 
