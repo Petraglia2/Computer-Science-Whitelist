@@ -32,3 +32,4 @@
 @*://*.apkpure.com/*
 @*://*.uptodown.com/*
 @*://*.rclone.org/*
+@*://time.geekbang.org/*
